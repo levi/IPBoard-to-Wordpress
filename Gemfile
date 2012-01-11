@@ -1,0 +1,6 @@
+source "http://rubygems.org"
+gem "nokogiri"
+gem "choice"
+gem "highline"
+gem "mysql"
+gem "bbcoder"
